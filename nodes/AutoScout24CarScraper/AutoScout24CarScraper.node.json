@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-autoscout24.autoScout24CarScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-autoscout24#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-autoscout24#readme"
+			}
+		]
+	},
+	"alias": [
+		"autoscout24",
+		"cars",
+		"used cars",
+		"car listings",
+		"vehicles",
+		"car dealer",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
