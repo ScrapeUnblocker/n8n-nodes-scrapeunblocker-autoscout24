@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-autoscout24",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the AutoScout24 Car Scraper Apify Actor by ScrapeUnblocker: AutoScout24 car listings with price, mileage, registration, power and seller as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-autoscout24#readme",
